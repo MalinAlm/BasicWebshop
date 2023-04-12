@@ -10,3 +10,4 @@ See the website
 -Fetch data from an API. -Utilize v-bind, v-if, v-for, v-model, v-on in some capacity. -Create a Single Page Application using Vue Router. -Implement a computed property, a watch, and a custom event. -Use Prettier and ESLint. -Use Sass and Bootstrap in some way. -Use Vuex in strict mode and include a mutation.
 
 Feel free to check out the project!
+[Click here to check out the website!](https://malinalm.github.io/#/)
